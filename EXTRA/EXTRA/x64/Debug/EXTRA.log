@@ -1,0 +1,3 @@
+﻿  WWW.cpp
+C:\Users\Pop Paul\Desktop\EXTRA\EXTRA\WWW.cpp(63,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EXTRA.vcxproj -> C:\Users\Pop Paul\Desktop\EXTRA\x64\Debug\EXTRA.exe
